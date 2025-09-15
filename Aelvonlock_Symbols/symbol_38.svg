@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Right vertical lower bar -->
+  <path d="M954.338,480.695 H1000 V1000 H954.338 Z" fill="black"/>
+
+  <!-- Left vertical bar -->
+  <path d="M385.845,0 H431.507 V519.305 H385.845 Z" fill="black"/>
+
+  <!-- Right vertical upper bar -->
+  <path d="M954.338,0 H1000 V480.695 H954.338 Z" fill="black"/>
+
+  <!-- Horizontal middle bar -->
+  <path d="M385.845,480.695 H1000 V519.305 H385.845 Z" fill="black"/>
+
+  <!-- Combined Diagonal: one long slash from bottom-left to top-right -->
+  <polygon points="385,480.7 416,505 925,55 894,30" fill="black"/>
+
+  <!-- Optional third diagonal (bottom-right extension) -->
+  <polygon points="955,486 986,510 579,940 548,915" fill="black"/>
+</svg>

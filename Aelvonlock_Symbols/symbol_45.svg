@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left vertical bar -->
+  <path d="M0 0 H68.5 V1000 H0 Z" fill="black"/>
+
+  <!-- Middle vertical bar -->
+  <path d="M314.5 0 H383 V1000 H314.5 Z" fill="black"/>
+
+  <!-- Bottom horizontal bar (left) -->
+  <path d="M0 935.6 H685.5 V1000 H0 Z" fill="black"/>
+
+  <!-- Bottom horizontal bar (right) -->
+  <path d="M685.5 935.6 H1000 V1000 H685.5 Z" fill="black"/>
+
+  <!-- Left diagonal -->
+  <polygon points="10,34 78,0 695,1000 627,1000" fill="black"/>
+
+  <!-- Right diagonal -->
+  <polygon points="325,34 393,0 1010,1000 942,1000" fill="black"/>
+</svg>

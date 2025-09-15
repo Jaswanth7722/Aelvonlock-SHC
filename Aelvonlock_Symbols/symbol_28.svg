@@ -1,0 +1,13 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Center vertical bar -->
+  <path d="M475 0 H525 V1000 H475 Z" fill="black"/>
+  
+  <!-- Left vertical bar (lower half) -->
+  <path d="M0 500 H50 V1000 H0 Z" fill="black"/>
+
+  <!-- Right vertical bar (lower half) -->
+  <path d="M950 500 H1000 V1000 H950 Z" fill="black"/>
+
+  <!-- Horizontal bar -->
+  <path d="M0 497.5 H1000 V547.5 H0 Z" fill="black"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <!-- Larger hollow square centered -->
+  <rect x="150" y="150" width="700" height="700" fill="none" stroke="black" stroke-width="40"/>
+
+  <!-- Top-left diagonal -->
+  <line x1="150" y1="150" x2="0" y2="0" stroke="black" stroke-width="40" />
+
+  <!-- Top-right diagonal -->
+  <line x1="850" y1="150" x2="1000" y2="0" stroke="black" stroke-width="40" />
+</svg>

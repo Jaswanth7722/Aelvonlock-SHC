@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <!-- Left vertical bar -->
+  <path d="M80 80V920" stroke="black" stroke-width="80" fill="none"/>
+  
+  <!-- Right vertical bar -->
+  <path d="M920 80V920" stroke="black" stroke-width="80" fill="none"/>
+  
+  <!-- Bottom horizontal bar -->
+  <path d="M40 920H960" stroke="black" stroke-width="80" fill="none"/>
+  
+  <!-- Diagonal bar -->
+  <path d="M80 920L920 108" stroke="black" stroke-width="80" fill="none"/>
+  
+  <!-- Middle vertical divider -->
+  <path d="M500 920V500" stroke="black" stroke-width="80" fill="none"/>
+</svg>

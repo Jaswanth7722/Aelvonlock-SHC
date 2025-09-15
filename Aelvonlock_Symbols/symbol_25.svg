@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Central Vertical Bar -->
+  <rect x="468" y="0" width="64" height="1000" fill="black" />
+
+  <!-- Left Diagonal Path (↘ style) -->
+  <path d="M485 730 L505 715 L740 999 L720 999 Z" fill="black" />
+
+  <!-- Right Diagonal Path (↙ style) -->
+  <path d="M515 730 L495 715 L260 999 L280 999 Z" fill="black" />
+</svg>

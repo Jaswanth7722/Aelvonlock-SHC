@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Horizontal bar (adjusted to match vertical bar positions) -->
+  <path d="M43 478 H907 V527 H43 Z" fill="black"/>
+
+  <!-- Right vertical bar -->
+  <path d="M907 0 H856 V478 H907 Z" fill="black"/>
+
+  <!-- Diagonal bar -->
+  <polygon points="
+    907,910
+    957,885
+    550,478
+    500,503
+  " fill="black"/>
+
+  <!-- Left vertical bar -->
+  <path d="M43 478 H92 V1000 H43 Z" fill="black"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <!-- Left vertical bar -->
+  <rect x="0" y="309" width="42" height="690" fill="black"/>
+
+  <!-- Right vertical bar -->
+  <rect x="958" y="309" width="42" height="690" fill="black"/>
+
+  <!-- Horizontal connector bar -->
+  <rect x="42" y="950" width="916" height="40" fill="black"/> <!-- This line is THICK and SPANS left to right -->
+
+  <!-- Top arc -->
+  <path d="M1000 309C1000 268 987 228 961 190C935 152 899 119 853 90C807 61 752 38 691 23C630 8 566 0 500 0C434 0 370 8 309 23C248 38 193 61 147 90C101 119 64 152 39 190C13 228 0 268 0 309H58C58 273 69 237 91 204C113 171 146 141 187 115C228 90 277 70 331 56C385 42 442 35 500 35C558 35 615 42 669 56C723 70 772 90 813 115C854 141 887 171 909 204C931 237 942 273 942 309H1000Z" fill="black"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left vertical (closed shape) -->
+  <path d="M75,100 H125 V900 H75 Z" fill="black"/>
+
+  <!-- Bottom horizontal -->
+  <path d="M75,875 H900 V925 H75 Z" fill="black"/>
+
+  <!-- Top horizontal -->
+  <path d="M75,75 H600 V125 H75 Z" fill="black"/>
+
+  <!-- Right vertical (lower half only) -->
+  <path d="M875,400 H925 V925 H875 Z" fill="black"/>
+
+  <!-- Diagonal slash (closed polygon) -->
+  <path d="M100,900 L125,900 L575,450 L550,425 L525,425 Z" fill="black"/>
+
+  <!-- Connector: vertical from top to diagonal -->
+  <path d="M550,75 H600 V425 H550 Z" fill="black"/>
+
+  <!-- Connector: horizontal from diagonal to right edge -->
+  <path d="M550,400 H900 V450 H550 Z" fill="black"/>
+</svg>

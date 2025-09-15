@@ -1,0 +1,22 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Left vertical bar -->
+  <rect x="0" y="0" width="28" height="1000" fill="black" />
+
+  <!-- Right vertical bar -->
+  <rect x="972" y="0" width="28" height="1000" fill="black" />
+
+  <!-- Center vertical bar -->
+  <rect x="486" y="0" width="28" height="1000" fill="black" />
+
+  <!-- Top horizontal (between left and center) -->
+  <rect x="28" y="458" width="458" height="56" fill="black" />
+
+  <!-- Top horizontal (between center and right) -->
+  <rect x="514" y="458" width="458" height="56" fill="black" />
+
+  <!-- Bottom horizontal (between left and center) -->
+  <rect x="28" y="940" width="458" height="56" fill="black" />
+
+  <!-- Bottom horizontal (between center and right) -->
+  <rect x="514" y="940" width="458" height="56" fill="black" />
+</svg>

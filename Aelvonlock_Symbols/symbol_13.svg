@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="1000" viewBox="0 0 516 1000">
+  <!-- Vertical main bar (slightly tilted right) -->
+  <rect
+    x="472.845"
+    y="0"
+    width="43.1547"
+    height="1000"
+    transform="matrix(1 0 0 1 0 0)"
+    fill="black" />
+
+  <!-- Diagonal connector (clean skew) -->
+  <rect
+    width="26.0923"
+    height="996.653"
+    transform="matrix(0.95993 0.28024 -0.95993 0.28024 472.717 0)"
+    fill="black" />
+</svg>

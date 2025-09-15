@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <!-- Central vertical bar -->
+  <rect x="482.7" y="196.8" width="35.5" height="606.9" fill="black" />
+
+  <!-- Left diagonal bar merged into vertical -->
+  <polygon points="482.7,803.7 508.2,803.7 257.3,917.6 231.8,917.6" fill="black" />
+
+  <!-- Right diagonal bar -->
+  <polygon points="482.7,196.2 508.2,196.2 759.1,83.3 733.6,83.3" fill="black" />
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   fill="none"
+   xmlns="http://www.w3.org/2000/svg">
+  <!-- Left Vertical Bar -->
+  <rect x="100" y="100" width="40" height="800" fill="black" />
+  
+  <!-- Right Vertical Bar -->
+  <rect x="860" y="100" width="40" height="800" fill="black" />
+  
+  <!-- Top Horizontal Bar connecting vertical bars -->
+  <rect x="100" y="100" width="800" height="40" fill="black" />
+  
+  <!-- Left Half Ellipse at bottom -->
+  <path d="M100,900 A200,100 0 0,0 300,900 L300,940 A200,100 0 0,1 100,940 Z" fill="black"/>
+
+  <!-- Right Half Ellipse at bottom -->
+  <path d="M900,900 A200,100 0 0,1 700,900 L700,940 A200,100 0 0,0 900,940 Z" fill="black"/>
+</svg>

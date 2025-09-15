@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <!-- Center vertical bar -->
+  <rect x="487.719" y="0" width="49.1228" height="1000" fill="#000000"/>
+  
+  <!-- Top horizontal bar -->
+  <rect x="0" y="0" width="1000" height="23.1579" fill="#000000"/>
+  
+  <!-- Middle horizontal bar -->
+  <rect x="0" y="463.158" width="1000" height="23.1579" fill="#000000"/>
+  
+  <!-- Bottom horizontal bar -->
+  <rect x="0" y="976.842" width="1000" height="23.1579" fill="#000000"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="black" stroke-width="65" stroke-linecap="square">
+    <!-- Top horizontal -->
+    <line x1="0" y1="70" x2="1000" y2="70"/>
+    
+    <!-- Middle horizontals -->
+    <line x1="0" y1="270" x2="700" y2="270"/>
+    <line x1="0" y1="740" x2="700" y2="740"/>
+    
+    <!-- Bottom horizontal -->
+    <line x1="300" y1="970" x2="1000" y2="970"/>
+    
+    <!-- Vertical -->
+    <line x1="350" y1="0" x2="350" y2="1000"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <!-- Left vertical bar -->
+  <rect x="60" y="737" width="46" height="263" fill="black"/>
+
+  <!-- Right vertical bar -->
+  <rect x="894" y="737" width="46" height="263" fill="black"/>
+
+  <!-- Diagonal from top of left bar to top-right -->
+  <line x1="83" y1="737" x2="894" y2="0" stroke="black" stroke-width="42"/>
+
+  <!-- Diagonal from top of right bar to top-left -->
+  <line x1="917" y1="737" x2="106" y2="0" stroke="black" stroke-width="42"/>
+</svg>

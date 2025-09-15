@@ -1,0 +1,16 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Left vertical bar -->
+  <rect x="0" y="0" width="27.6243" height="1000" fill="black"/>
+  
+  <!-- Right vertical bar -->
+  <rect x="500" y="0" width="27.6243" height="1000" fill="black"/>
+  
+  <!-- Top horizontal bar -->
+  <rect x="27.6243" y="0" width="472.376" height="58.4795" fill="black"/>
+  
+  <!-- Center horizontal bar (moved to start at center of right vertical bar) -->
+  <rect x="513.81215" y="470.76" width="472.376" height="58.4795" fill="black"/>
+  
+  <!-- Bottom horizontal bar -->
+  <rect x="27.6243" y="941.521" width="472.376" height="58.4795" fill="black"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="black" stroke-width="60" stroke-linecap="square">
+    <!-- Vertical main bar -->
+    <line x1="450" y1="0" x2="450" y2="1000" />
+
+    <!-- Upper short diagonal -->
+    <line x1="450" y1="0" x2="650" y2="350" />
+
+    <!-- Middle bar (missing one) -->
+    <line x1="" y1="800" x2="500" y2="500" />
+
+    <!-- Bottom left diagonal -->
+    <line x1="450" y1="1000" x2="5" y2="800" />
+
+    <!-- Bottom right diagonal -->
+    <line x1="500" y1="980" x2="900" y2="750" />
+  </g>
+</svg>

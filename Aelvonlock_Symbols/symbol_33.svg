@@ -1,0 +1,19 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left vertical spine -->
+  <rect x="0" y="0" width="69.49" height="1000" fill="black"/>
+
+  <!-- Top horizontal bar -->
+  <rect x="0" y="0" width="1000" height="47.13" fill="black"/>
+
+  <!-- Inner top bar -->
+  <rect x="0" y="0" width="552.87" height="47.13" fill="black"/>
+
+  <!-- Middle horizontal bar -->
+  <rect x="0" y="350.41" width="1000" height="47.13" fill="black"/>
+
+  <!-- Right inner vertical (inverted corner) -->
+  <rect x="483.38" y="0" width="69.49" height="375" fill="black"/>
+
+  <!-- Right outer vertical bar -->
+  <rect x="930.51" y="375" width="69.49" height="625" fill="black"/>
+</svg>
