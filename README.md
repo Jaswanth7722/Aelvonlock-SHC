@@ -80,4 +80,4 @@ source .venv/bin/activate  # Linux/macOS
 pip install -r requirements.txt
 
 # Optional: test installation
-python -c "from aelvonlock import Aelvonlock; print('Aelvonlock imported successfully')"
+python -c "from Fast import Aelvonlock512_hash; print('Aelvonlock imported successfully')"
