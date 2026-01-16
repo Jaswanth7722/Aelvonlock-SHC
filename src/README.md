@@ -72,7 +72,7 @@ This document compares all **Aelvonlock-512 hashing variants** with a focus on *
 
 ---
 
-## 5\. Mini (64MB)
+## 5\. Fast (64MB)
 
 * **Memory Usage:** ~64 MB
 * **ARX Rounds:** 4
@@ -89,4 +89,4 @@ This document compares all **Aelvonlock-512 hashing variants** with a focus on *
 * **Maxlock:** Maximum cryptographic security at the cost of memory/CPU.
 * **Hardened:** High security, moderate resource use.
 * **Balanced:** Good compromise for general-purpose applications.
-* **Lite \& Mini:** Fastest variants, weak security—use only for low-risk scenarios.
+* **Lite \& Fast:** Fastest variants, weak security—use only for low-risk scenarios.
