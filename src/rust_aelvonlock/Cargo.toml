@@ -1,0 +1,19 @@
+[package]
+name = "aelvonlock-shc"
+version = "2.0.0"
+edition = "2021"
+description = "Aelvonlock Symbolic Hashing Cryptography - Rust implementation"
+authors = ["Aelvonlock Developers"]
+
+[dependencies]
+sha2 = "0.10"
+hmac = "0.12"
+digest = "0.10"
+hex = "0.4"
+clap = { version = "4", features = ["derive"] }
+rand = "0.8"
+getrandom = "0.2"
+
+[[bin]]
+name = "aelvonlock"
+path = "src/main.rs"
