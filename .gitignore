@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# Numba cache
+numba_cache/
+*.numba_cache/
+
+# Rust
+src/rust_aelvonlock/target/
+src/rust_aelvonlock/Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.lib
+*.dll
+*.exp
+*.pdb
+
+# CMake build directory
+src/build/
+
+# Benchmark output
+benchmark_results.json
+
+# Logs
+*.log
+
+# Font / executable files (original project artifacts not tracked)
+Aelvonlock_exe_files/
+font/
